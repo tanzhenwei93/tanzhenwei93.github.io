@@ -2,5 +2,6 @@
 export const users = [
     { name: 'Tom', country: 'Singapore' },
     { name: 'Jerry', country: 'Malaysia' },
-    { name: 'Sarah', country: 'Indonesia' }
+    { name: 'Sarah', country: 'Indonesia' },
+    { name: 'Cheryl', country: 'Thailand'}
 ];
