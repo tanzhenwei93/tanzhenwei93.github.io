@@ -1,6 +1,6 @@
 // WelcomeMessagesList.jsx
-import { WelcomeMessage } from "./WelcomeMessage.jsx";
-import { users } from "./users.js";
+import { WelcomeMessage } from "./WelcomeMessage";
+import { users } from "./users";
 
 export function WelcomeMessagesList() {
     return <ul>
